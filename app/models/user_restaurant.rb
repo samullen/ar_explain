@@ -1,2 +1,2 @@
-class UserRestaurantLike < ActiveRecord::Base
+class UserRestaurant < ActiveRecord::Base
 end
